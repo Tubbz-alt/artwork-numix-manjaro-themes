@@ -10,9 +10,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="100%"
-   height="100%"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-checkbox-mixed.svg">
   <metadata
      id="metadata17">
@@ -22,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,16 +33,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1400"
+     inkscape:window-height="997"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="48"
+     inkscape:zoom="41.7193"
+     inkscape:cx="6.9587179"
+     inkscape:cy="5.4098589"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -60,22 +59,26 @@
   </defs>
   <g
      transform="translate(0 -1036.3622)"
-     id="g9"
-     style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+     id="g9">
     <rect
        width="8"
        x="4"
        y="1043.451"
        height="2"
-       style="fill:#999999;filter:url(#filter3971);color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#555753;filter:url(#filter3971)"
        id="rect11" />
     <rect
        width="8"
        x="4"
        y="7"
        height="2"
-       style="fill:#999999;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#d64937"
        transform="translate(0 1036.3622)"
        id="rect13" />
   </g>
+  <path
+     style="opacity:1;fill:#35bf59;fill-opacity:1"
+     d="m 4.0008543,7.996547 0,-1.0067986 3.9969511,0.00606 3.9969506,0.00606 0.0063,1.0007359 0.0063,1.0007359 -4.0032063,0 -4.0032064,0 0,-1.0067986 z"
+     id="path4161"
+     inkscape:connector-curvature="0" />
 </svg>

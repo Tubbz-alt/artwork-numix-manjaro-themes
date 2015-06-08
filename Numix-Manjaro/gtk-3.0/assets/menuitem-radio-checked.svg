@@ -10,9 +10,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="100%"
-   height="100%"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-radio-checked.svg">
   <metadata
      id="metadata12">
@@ -22,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,25 +35,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1400"
+     inkscape:window-height="997"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="48"
+     inkscape:zoom="59"
+     inkscape:cx="4.0078827"
+     inkscape:cy="9.9332428"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      transform="translate(0 -1036.3622)"
-     id="g4"
-     style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+     id="g4">
     <path
-       style="fill:#999999;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#d64937"
        d="M 11,8 C 11,9.6568542 9.6568542,11 8,11 6.3431458,11 5,9.6568542 5,8 5,6.3431458 6.3431458,5 8,5 c 1.6568542,0 3,1.3431458 3,3 z"
        transform="translate(0 1036.3622)"
        id="path6" />
   </g>
+  <path
+     style="opacity:1;fill:#35bf59;fill-opacity:1"
+     d="M 7.7129674,10.993542 C 7.0167042,10.923594 6.3651434,10.61547 5.8731735,10.1235 5.3596824,9.6100091 5.0442258,8.9144709 5.0041553,8.2074352 4.961469,7.4542421 5.1549627,6.7925163 5.5914488,6.1989606 5.7236149,6.0192344 6.0657384,5.6855282 6.2555085,5.5512387 6.4435473,5.4181744 6.7464912,5.2571648 6.9504774,5.1818745 7.883089,4.8376521 8.9323769,4.9762574 9.7468658,5.5512624 9.9532307,5.69695 10.29937,6.043008 10.445575,6.249808 c 0.205765,0.2910438 0.384131,0.67602 0.469755,1.013898 0.09778,0.3858329 0.112774,0.9328892 0.03603,1.3145524 -0.104846,0.5214617 -0.353238,1.0226078 -0.70232,1.4169754 C 9.6199132,10.705981 8.6502068,11.087699 7.7129674,10.993542 Z"
+     id="path4142"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -10,9 +10,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="100%"
-   height="100%"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-checkbox-checked.svg">
   <metadata
      id="metadata12">
@@ -22,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,24 +35,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1400"
+     inkscape:window-height="997"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="-4.2372881"
      inkscape:cy="8"
-     inkscape:window-x="48"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      transform="translate(0 -1036.3622)"
-     id="g4"
-     style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+     id="g4">
     <path
-       style="fill:#999999;line-height:normal;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#d64937;line-height:normal;color:#000"
        d="m 11.653408,1040.2805 c -0.365873,0.01 -0.727323,0.1623 -0.985551,0.4266 l -4.0292904,3.8367 -1.3822187,-1.5489 c -0.4918947,-0.656 -1.5705595,-0.7265 -2.1406524,-0.14 -0.5700929,0.5865 -0.4910061,1.6854 0.1569519,2.1808 l 2.3831825,2.5599 c 0.9369248,0.9369 1.3590497,0.8116 2.3049741,-0.1343 0,0 3.250459,-3.9103 5.155609,-5.232 0.421127,-0.3992 0.596878,-0.5102 0.377676,-1.0522 -0.219202,-0.542 -1.265927,-0.916 -1.840681,-0.8966 z"
        id="path6" />
   </g>
+  <path
+     style="opacity:1;fill:#35bf59;fill-opacity:1"
+     d="M 6.3406839,11.790191 C 6.0128835,11.64131 5.7113632,11.349301 4.1413742,9.6602579 3.4893812,8.9588235 2.9033424,8.2723828 2.839066,8.1348342 2.7747896,7.9972856 2.7213998,7.7235964 2.7204219,7.526636 2.7161177,6.6596476 3.2757451,6.0881356 4.1290087,6.0881356 c 0.5885031,0 0.844087,0.171742 1.7151969,1.1525424 0.4139739,0.4661017 0.7632583,0.8586065 0.7761875,0.8722328 0.012929,0.013627 0.9821296,-0.8903284 2.1537786,-2.0087885 1.5497023,-1.4793512 2.1990233,-2.0562543 2.3825453,-2.1168218 0.397043,-0.131036 1.087772,-0.058949 1.580701,0.1649674 0.497951,0.2261978 0.791454,0.5297198 0.858663,0.887973 0.06283,0.3349279 -0.02437,0.4492103 -0.91747,1.202354 -0.948052,0.799486 -2.099812,1.9505192 -3.3036354,3.3015484 -1.4772669,1.6579117 -1.9015655,2.0868597 -2.2137017,2.2379627 -0.3456452,0.167324 -0.4673451,0.168523 -0.82059,0.0081 z"
+     id="path4140"
+     inkscape:connector-curvature="0" />
 </svg>
