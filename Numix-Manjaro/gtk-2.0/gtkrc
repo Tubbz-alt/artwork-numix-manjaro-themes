@@ -1,6 +1,15 @@
 # Numix GTK Theme
 
-gtk-color-scheme = "bg_color:#e9e9e9\nfg_color:#444444\nbase_color:#f9f9f9\ntext_color:#333333\nselected_bg_color:#35BF59\nselected_fg_color:#ffffff\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#e9e9e9\ntitlebar_bg_color:#2d2d2d\ntitlebar_fg_color:#e9e9e9\nmenubar_bg_color:#2d2d2d\nmenubar_fg_color:#e9e9e9\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#e9e9e9\nmenu_fg_color:#2d2d2d\npanel_bg_color:#2d2d2d\npanel_fg_color:#e9e9e9\nlink_color:#14B43E"
+gtk-color-scheme = "bg_color:#dcdcdc\nfg_color:#333333\nbase_color:#f9f9f9" # Main colors
+gtk-color-scheme = "text_color:#333333"                                     # Text
+gtk-color-scheme = "selected_bg_color:#2ECC71\nselected_fg_color:#ffffff"   # Selected. 
+gtk-color-scheme = "tooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dcdcdc"     # Tooltip colors.
+gtk-color-scheme = "titlebar_bg_color:#2d2d2d\ntitlebar_fg_color:#dcdcdc"   # Titlebar colors.
+gtk-color-scheme = "menubar_bg_color:#353839\nmenubar_fg_color:#dcdcdc"     # Menubar
+gtk-color-scheme = "toolbar_bg_color:#dcdcdc\ntoolbar_fg_color:#555555"     # Toolbar
+gtk-color-scheme = "menu_bg_color:#353839\nmenu_fg_color:#dcdcdc"           # Menu
+gtk-color-scheme = "panel_bg_color:#353839\npanel_fg_color:#dcdcdc"         # Panel
+gtk-color-scheme = "link_color:#009943"                                     # Hyperlink color
 
 # Default Style
 
