@@ -2,17 +2,17 @@ style "notify-window" {
     XfceNotifyWindow::summary-bold = 1
     XfceNotifyWindow::border-color = "#e5e5e5"
     XfceNotifyWindow::border-color-hover = "#cdcdcd"
-    XfceNotifyWindow::border-radius = 5.0
-    XfceNotifyWindow::border-width = 1.0
-    XfceNotifyWindow::border-width-hover = 1.0
+    XfceNotifyWindow::border-radius = 10.0
+    XfceNotifyWindow::border-width = 2.0
+    XfceNotifyWindow::border-width-hover = 2.0
 
-    bg[NORMAL] = "#343434"
+    bg[NORMAL] = "#353839"
 }
 
 style "notify-button" {
-    bg[NORMAL] = "#444"
+    bg[NORMAL] = "#222222"
     bg[PRELIGHT] = "#303030"
-    bg[ACTIVE] = "#f00"
+    bg[ACTIVE] = "#2ECC71"
 
     fg[NORMAL] = "#222"
     fg[PRELIGHT] = "#fff"
