@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="menuitem-checkbox-mixed.svg">
+   sodipodi:docname="menuitem-checkbox-mixed-1.svg">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -34,14 +34,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1400"
-     inkscape:window-height="997"
+     inkscape:window-height="964"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="41.7193"
-     inkscape:cx="6.9587179"
+     inkscape:zoom="14.75"
+     inkscape:cx="2.6321832"
      inkscape:cy="5.4098589"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -72,13 +72,8 @@
        x="4"
        y="7"
        height="2"
-       style="fill:#d64937"
+       style="fill:#2ecc71;fill-opacity:1"
        transform="translate(0 1036.3622)"
        id="rect13" />
   </g>
-  <path
-     style="opacity:1;fill:#35bf59;fill-opacity:1"
-     d="m 4.0008543,7.996547 0,-1.0067986 3.9969511,0.00606 3.9969506,0.00606 0.0063,1.0007359 0.0063,1.0007359 -4.0032063,0 -4.0032064,0 0,-1.0067986 z"
-     id="path4161"
-     inkscape:connector-curvature="0" />
 </svg>
