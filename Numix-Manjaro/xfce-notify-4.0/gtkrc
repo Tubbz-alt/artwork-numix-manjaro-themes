@@ -10,28 +10,28 @@ style "notify-window" {
 }
 
 style "notify-button" {
-    bg[NORMAL] = "#222222"
-    bg[PRELIGHT] = "#303030"
-    bg[ACTIVE] = "#2ECC71"
+    bg[NORMAL]   = "#D77300"
+    bg[PRELIGHT] = "#FFA339"
+    bg[ACTIVE]   = "#2ECC71"
 
-    fg[NORMAL] = "#222"
+    fg[NORMAL]   = "#fff"
     fg[PRELIGHT] = "#fff"
-    fg[ACTIVE] = "#303030"
+    fg[ACTIVE]   = "#fff"
 
     engine "murrine" {
         gradient_shades = { 1.0, 1.0, 1.0, 1.0 }
-		border_shades = { 2.9, 2.9 }
+	border_shades = { 2.9, 2.9 }
         roundness = 2
         textstyle = 0
     }
 }
 
 style "notify-text" {
-    GtkWidget::link-color = "#d64937"
+    GtkWidget::link-color = "#5588ee"
 
-    fg[NORMAL] = "#f9f9f9"
+    fg[NORMAL]   = "#f9f9f9"
     fg[PRELIGHT] = "#f9f9f9"
-    fg[ACTIVE] = "#f9f9f9"
+    fg[ACTIVE]   = "#f9f9f9"
 
     engine "murrine" {
         textstyle = 0
@@ -47,11 +47,11 @@ style "notify-progressbar" {
     ythickness   = 1
 
     bg[NORMAL]   = "#dcdcdc"
-	bg[ACTIVE] = "#2d2d2d"
+    bg[ACTIVE]   = "#2d2d2d"
     bg[SELECTED] = "#dedede"
 
     fg[PRELIGHT] = "#333333"
-    fg[ACTIVE] = "#f9f9f9"
+    fg[ACTIVE]   = "#f9f9f9"
     fg[SELECTED] = "#333333"
 
     engine "murrine" {
