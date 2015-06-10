@@ -1,3 +1,5 @@
+## Original README text from Numix 
+
 Numix is a modern flat theme with a combination of light and dark elements. It supports Gnome, Unity, XFCE and Openbox.
 
 ### Manual installation
